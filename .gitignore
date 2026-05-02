@@ -1,0 +1,14 @@
+# Generated files
+config/config.json
+client-info.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
